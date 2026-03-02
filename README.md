@@ -72,7 +72,3 @@ Plain CSV, easy to edit or export.
 - Break tracking
 - Config file support
 - Better time formatting options
-
-## License
-
-MIT
