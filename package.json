@@ -1,0 +1,12 @@
+{
+  "name": "clork",
+  "version": "1.0.0",
+  "description": "A simple CLI tool for tracking work time with clock in/out functionality",
+  "main": "clork.js",
+  "bin": {
+    "clork": "./clork.js"
+  },
+  "type": "module",
+  "keywords": ["cli", "time-tracking", "clork"],
+  "license": "MIT"
+}
